@@ -1,4 +1,4 @@
-# ToDo-list-Simple-React-
+# ToDo-list-Simple-JSX
 
 Simple React Program
 
